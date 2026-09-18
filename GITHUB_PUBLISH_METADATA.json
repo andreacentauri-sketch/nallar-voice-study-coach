@@ -1,0 +1,16 @@
+{
+  "github_description": "Voice-capable study coach with pluggable STT/TTS adapters, a RAG-backed multi-agent workflow, and deterministic mock evaluation. 10/10 tests.",
+  "github_topics": [
+    "voice-ai",
+    "stt",
+    "tts",
+    "ai-tutor",
+    "rag",
+    "multi-agent",
+    "python"
+  ],
+  "license": "MANUAL_SELECTION_REQUIRED",
+  "recommended_pin": false,
+  "repository_name": "nallar-voice-study-coach",
+  "visibility": "public_after_manual_security_review"
+}
