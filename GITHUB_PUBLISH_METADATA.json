@@ -9,7 +9,7 @@
     "multi-agent",
     "python"
   ],
-  "license": "MANUAL_SELECTION_REQUIRED",
+  "license": "MIT",
   "recommended_pin": false,
   "repository_name": "nallar-voice-study-coach",
   "visibility": "public_after_manual_security_review"
